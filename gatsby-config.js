@@ -51,7 +51,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python','Shell','JavaScript','Java',
+          'Python, Shell, JavaScript, Java',
       },
       {
         name: 'Tools',
