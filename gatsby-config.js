@@ -39,11 +39,13 @@ module.exports = {
     experience: [
       {
         name: 'Azul Systems',
-        description: 'Software Engineer, July 2015 - Present',
+        description: 
+        'Software Engineer, July 2015 - Present',
       },
       {
-        name: 'Zootr games',
-        description: 'Summer Intern (Android Developer), April 2015 - June 2015',
+        name: 'Zootr Sports',
+        description: 
+        'Summer Intern (Android Developer), April 2015 - June 2015',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
